@@ -43,7 +43,7 @@
       {
         "title": "The Adventurer's Spellbook",
         "startDate": "2022",
-        "description": "A full-stack application using Node.js, JavaScript, Mongoose, Express, Liquid, CSS, and Bootstrap that serves as a companion to Dungeons and Dragons 5th edition. The app allows users to create, view, and update characters, add a list of spells pulled from a third-party API to the characters, and create their own custom spells." 
+        "description": "A full-stack application using Node.js, JavaScript, Mongoose, Express, Liquid, CSS, and Bootstrap that serves as a companion to Dungeons and Dragons 5th edition. The app allows users to create, view, and update characters, add a list of spells pulled from a third-party API to the characters, and create their own custom spells. Sample login: g@g.g password: g" 
         ,
         "images": [
           "images/portfolio/spellbook/home-page.png",
