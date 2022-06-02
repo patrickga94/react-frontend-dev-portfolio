@@ -16,6 +16,7 @@
         "description": "A full-stack application with its own API utilizing Mongoose, Express, React, Node.js, CSS, Bootstrap, the Google Maps API, Google Places API, and the Google Geocoder API. The app allows bars and restaurants to log happy hours with information about deals, location, hours, and tags. Guests can then search for happy hours by location or by tag, view their information along with a map to the location and user reviews, and add/remove happy hours to a favorites list that they can then access.\nSample login: g@g.g password: g",
         "images": [
           "images/portfolio/happy-hour/home-screen.png",
+          "images/portfolio/happy-hour/index.png",
           "images/portfolio/happy-hour/show-page.png"
         ],
         "url": "https://its-happy-hour.herokuapp.com/",
@@ -35,6 +36,45 @@
             "name": "Mongodb"
           },
           {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "AdventureR",
+        "startDate": "2022",
+        "description": "A full-stack application with its own API made using Mongoose, Express, React, Node.js, CSS, and Bootstrap. The idea behind the app was to connect fitness fans and promote wellbeing. As such, it allows users to log outdoor recreational activities called 'adventures', view other user’s adventures including a map of the adventure area and the current weather and temperature, as well as comment on other user’s adventures.\nSample login: g@g.g password: g",
+        "images": [
+          "images/portfolio/adventurer/homescreen.png",
+          "images/portfolio/adventurer/index.png",
+          "images/portfolio/adventurer/showpage.png"
+        ],
+        "url": "https://goadventurer.herokuapp.com/",
+        "github": "https://github.com/patrickga94/Project3-client",
+        "api": "https://github.com/patrickga94/Project3-api",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "Mongodb"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
             "class": "devicon-bootstrap-plain",
             "name": "Bootstrap"
           }
@@ -47,6 +87,7 @@
         ,
         "images": [
           "images/portfolio/spellbook/home-page.png",
+          "images/portfolio/spellbook/index.png",
           "images/portfolio/spellbook/show-page.png"
         ],
         "url": "https://adventurerspellbook.herokuapp.com/",
